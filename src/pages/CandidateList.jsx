@@ -28,7 +28,7 @@ export default function CandidateList() {
               <Table.Cell>
                 <Header as="h4" image>
                   <Image
-                    src="/images/avatar/small/lena.png"
+                    src="https://avatars.githubusercontent.com/u/14959?v=4"
                     rounded
                     size="mini"
                   />
