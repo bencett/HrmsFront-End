@@ -11,7 +11,7 @@ export default function CandidateList() {
   },[])
   return (
     <div>
-      <Table celled collapsing align="right">
+      <Table celled collapsing align="left">
         <Table.Header>
           <Table.Row>
             <Table.HeaderCell>Profil</Table.HeaderCell>
