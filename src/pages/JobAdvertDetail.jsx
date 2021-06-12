@@ -17,8 +17,8 @@ export default function JobAdvertDetail() {
 
   return (
     <div>
-      <Card.Group>
-        <Card>
+      <Card.Group style={{height:"50em"}}>
+        <Card fluid>
           <Card.Content>
             <Card.Header>{jobAdvert.jobPosition?.title}</Card.Header>
             <Card.Meta>{jobAdvert.city?.cityName}</Card.Meta>
