@@ -1,4 +1,4 @@
-# Uml Diagram for project
+### Uml Diagram for project
 ![UML_Diagram](https://user-images.githubusercontent.com/48283331/121780012-080d5300-cba7-11eb-99ed-42ae76392804.jpg)
 
 
